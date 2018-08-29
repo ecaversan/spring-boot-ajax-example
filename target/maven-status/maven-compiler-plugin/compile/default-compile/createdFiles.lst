@@ -1,0 +1,8 @@
+com\caversan\model\SearchCriteria.class
+com\caversan\model\AjaxResponseBody.class
+com\caversan\model\User.class
+com\caversan\controller\IndexController.class
+com\caversan\services\UserService.class
+com\caversan\SpringBootWebApplication.class
+com\caversan\controller\WelcomeController.class
+com\caversan\controller\SearchController.class
