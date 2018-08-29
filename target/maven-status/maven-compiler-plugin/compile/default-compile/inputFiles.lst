@@ -1,8 +1,8 @@
-C:\Users\ecave\eclipse-workspace\spring-boot-ajax-example\src\main\java\com\caversan\model\User.java
-C:\Users\ecave\eclipse-workspace\spring-boot-ajax-example\src\main\java\com\caversan\controller\WelcomeController.java
-C:\Users\ecave\eclipse-workspace\spring-boot-ajax-example\src\main\java\com\caversan\controller\IndexController.java
-C:\Users\ecave\eclipse-workspace\spring-boot-ajax-example\src\main\java\com\caversan\model\SearchCriteria.java
-C:\Users\ecave\eclipse-workspace\spring-boot-ajax-example\src\main\java\com\caversan\services\UserService.java
-C:\Users\ecave\eclipse-workspace\spring-boot-ajax-example\src\main\java\com\caversan\SpringBootWebApplication.java
-C:\Users\ecave\eclipse-workspace\spring-boot-ajax-example\src\main\java\com\caversan\controller\SearchController.java
-C:\Users\ecave\eclipse-workspace\spring-boot-ajax-example\src\main\java\com\caversan\model\AjaxResponseBody.java
+C:\git\repos\spring-boot-ajax-example\src\main\java\com\caversan\controller\IndexController.java
+C:\git\repos\spring-boot-ajax-example\src\main\java\com\caversan\controller\WelcomeController.java
+C:\git\repos\spring-boot-ajax-example\src\main\java\com\caversan\controller\SearchController.java
+C:\git\repos\spring-boot-ajax-example\src\main\java\com\caversan\model\SearchCriteria.java
+C:\git\repos\spring-boot-ajax-example\src\main\java\com\caversan\model\User.java
+C:\git\repos\spring-boot-ajax-example\src\main\java\com\caversan\SpringBootWebApplication.java
+C:\git\repos\spring-boot-ajax-example\src\main\java\com\caversan\services\UserService.java
+C:\git\repos\spring-boot-ajax-example\src\main\java\com\caversan\model\AjaxResponseBody.java
